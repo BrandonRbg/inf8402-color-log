@@ -1,0 +1,20 @@
+{
+  "name": "securite-color-log",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "uglifyjs index.js > dist/color-log.min.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrandonRbg/inf8402-color-log.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrandonRbg/inf8402-color-log/issues"
+  },
+  "homepage": "https://github.com/BrandonRbg/inf8402-color-log#readme"
+}
